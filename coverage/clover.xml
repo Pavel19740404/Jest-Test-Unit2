@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1730184383381" clover="3.2.0">
-  <project timestamp="1730184383381" name="All files">
-    <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0" elements="0" coveredelements="0" complexity="0" loc="0" ncloc="0" packages="0" files="0" classes="0"/>
+<coverage generated="1730185492535" clover="3.2.0">
+  <project timestamp="1730185492535" name="All files">
+    <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="3" coveredelements="3" complexity="0" loc="1" ncloc="1" packages="1" files="1" classes="1"/>
+    <file name="healthStatus.js" path="C:\Users\p.babin\Desktop\Jest-Test-Unit2\src\healthStatus.js">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="8" type="stmt"/>
+    </file>
   </project>
 </coverage>
